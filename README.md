@@ -1,6 +1,6 @@
 # l10n-tool
 
-this is s python script to generates comprehensive output files with summaries, ensuring outstanding and stable support for objective-c mac apps.
+this is a python script to generates comprehensive output files with summaries, ensuring outstanding and stable support for objective-c mac apps.
 
 ## Getting started
 
